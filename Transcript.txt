@@ -1,0 +1,40 @@
+FW21	AP PHIL 2075  3.00 A	Introduction to Applied Ethics	B+
+FW21	LE EECS 3213  3.00 Z	Communication Networks	          
+FW21	LE EECS 3216  3.00 Z	Digital Systems Engineering	          
+FW21	LE EECS 3311  3.00 E	Software Design	A
+FW21	LE EECS 3604  4.00 Z	Electromagnetic Theory &Wave Propagation	          
+FW21	LE EECS 4422  3.00 A	Computer Vision	B+
+FW21	LE ESSE 2210  3.00 M	Engineering and the Environment	          
+SU21	LE EECS 3101  3.00 E	Design and Analysis of Algorithms	B+
+SU21	LE ENG  3000  3.00 A	Professional Engineering Practice	A
+FW20	LE EECS 2011  3.00 E	Fundamentals of Data Structures	A
+FW20	LE EECS 2021  4.00 E	Computer Organization	B+
+FW20	LE EECS 3201  4.00 E	Digital Logic Design	A+
+FW20	LE EECS 3214  3.00 M	Computer Network Protocols and App	A
+FW20	LE EECS 3221  3.00 Z	Operating System Fundamentals	B+
+FW20	LE EECS 3451  4.00 Z	Signals and Systems	A
+FW20	LE EECS 3482  3.00 A	Introduction to Computer Security	B+
+FW20	SC MATH 1090  3.00 A	Intro. to Logic for Computer Science	A
+FW20	SC MATH 2930  3.00 M	Engineering Statistics	A
+FW19	LE EECS 2030  3.00 E	Advanced Object Oriented Programming	B+
+FW19	LE EECS 2032  4.00 E	Introduction to Embedded Systems	B+
+FW19	LE EECS 2200  3.00 E	Electrical Circuits	B
+FW19	LE EECS 2210  3.00 Z	Electronic Circuits and Devices	A
+FW19	LE EECS 2602  4.00 Z	Signals and Systems in Continuous Time	A
+FW19	LE ENG  2003  3.00 M	Effective Engineering Communication	B+
+FW19	SC PHYS 2020  3.00 E	Electricity and Magnetism	B
+FW19	SC PHYS 2211  1.00 M	Experimental Electromagnetism	B+
+SU19	LE ENG  2001  3.00 A	Eng Projs:Management, Economics & Safety	A
+FW18	LE EECS 1021  3.00 Z	Object Oriented Programming	A+
+FW18	LE EECS 1028  3.00 M	Discrete Mathematics for Engineers	A+
+FW18	SC MATH 1025  3.00 A	Applied Linear Algebra	A+
+FW18	SC MATH 2015  3.00 C	Applied Multivariate & Vector Calculus	A+
+FW18	SC PHYS 1470  3.00 M	Highlights of Astronomy	A
+FW18	SC PHYS 1801  3.00 N	Electricity, Magnetism & Optics for Eng.	A
+FW17	LE EECS 1011  3.00 E	Computational Thinking	A
+FW17	LE ENG  1101  4.00 C	Renaissance Engineer 1:	A
+FW17	LE ENG  1102  4.00 M	Ren. Eng. 2: Eng. Design Principles	B+
+FW17	SC CHEM 1100  4.00 M	Chemistry and Materials Science	A
+FW17	SC MATH 1013  3.00 C	Applied Calculus I	A
+FW17	SC MATH 1014  3.00 Q	Applied Calculus II	B+
+FW17	SC PHYS 1800  3.00 A	Engineering Mechanics	A
