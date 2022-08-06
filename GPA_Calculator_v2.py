@@ -8,8 +8,8 @@ eecs_grade_array = []
 eecs_credit_array = []
 true_ct = 0
 
-
 def letter_to_point(letter):
+
     if letter.__contains__("NCR"):
         return -1.0
     else:
