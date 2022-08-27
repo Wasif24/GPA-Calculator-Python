@@ -1,40 +1,47 @@
-FW21	AP PHIL 2075  3.00 A	Introduction to Applied Ethics	B+
-FW21	LE EECS 3213  3.00 Z	Communication Networks	          
-FW21	LE EECS 3216  3.00 Z	Digital Systems Engineering	          
-FW21	LE EECS 3311  3.00 E	Software Design	A
-FW21	LE EECS 3604  4.00 Z	Electromagnetic Theory &Wave Propagation	          
-FW21	LE EECS 4422  3.00 A	Computer Vision	B+
-FW21	LE ESSE 2210  3.00 M	Engineering and the Environment	          
-SU21	LE EECS 3101  3.00 E	Design and Analysis of Algorithms	B+
-SU21	LE ENG  3000  3.00 A	Professional Engineering Practice	A
-FW20	LE EECS 2011  3.00 E	Fundamentals of Data Structures	A
-FW20	LE EECS 2021  4.00 E	Computer Organization	B+
-FW20	LE EECS 3201  4.00 E	Digital Logic Design	A+
-FW20	LE EECS 3214  3.00 M	Computer Network Protocols and App	A
-FW20	LE EECS 3221  3.00 Z	Operating System Fundamentals	B+
-FW20	LE EECS 3451  4.00 Z	Signals and Systems	A
-FW20	LE EECS 3482  3.00 A	Introduction to Computer Security	B+
-FW20	SC MATH 1090  3.00 A	Intro. to Logic for Computer Science	A
-FW20	SC MATH 2930  3.00 M	Engineering Statistics	A
-FW19	LE EECS 2030  3.00 E	Advanced Object Oriented Programming	B+
-FW19	LE EECS 2032  4.00 E	Introduction to Embedded Systems	B+
-FW19	LE EECS 2200  3.00 E	Electrical Circuits	B
-FW19	LE EECS 2210  3.00 Z	Electronic Circuits and Devices	A
-FW19	LE EECS 2602  4.00 Z	Signals and Systems in Continuous Time	A
-FW19	LE ENG  2003  3.00 M	Effective Engineering Communication	B+
-FW19	SC PHYS 2020  3.00 E	Electricity and Magnetism	B
-FW19	SC PHYS 2211  1.00 M	Experimental Electromagnetism	B+
-SU19	LE ENG  2001  3.00 A	Eng Projs:Management, Economics & Safety	A
-FW18	LE EECS 1021  3.00 Z	Object Oriented Programming	A+
-FW18	LE EECS 1028  3.00 M	Discrete Mathematics for Engineers	A+
-FW18	SC MATH 1025  3.00 A	Applied Linear Algebra	A+
-FW18	SC MATH 2015  3.00 C	Applied Multivariate & Vector Calculus	A+
-FW18	SC PHYS 1470  3.00 M	Highlights of Astronomy	A
-FW18	SC PHYS 1801  3.00 N	Electricity, Magnetism & Optics for Eng.	A
-FW17	LE EECS 1011  3.00 E	Computational Thinking	A
-FW17	LE ENG  1101  4.00 C	Renaissance Engineer 1:	A
-FW17	LE ENG  1102  4.00 M	Ren. Eng. 2: Eng. Design Principles	B+
-FW17	SC CHEM 1100  4.00 M	Chemistry and Materials Science	A
-FW17	SC MATH 1013  3.00 C	Applied Calculus I	A
-FW17	SC MATH 1014  3.00 Q	Applied Calculus II	B+
-FW17	SC PHYS 1800  3.00 A	Engineering Mechanics	A
+FW21	AP HUMA 2205  3.00 A	In Other Worlds	B
+FW21	FA MUSI 1530  3.00 B	Rock and Popular Music	A
+FW21	LE CIVL 4031  3.00 M	Pavement Materials and Design	B
+FW21	LE CIVL 4033  3.00 M	Traffic Simulation Modelling	C
+FW21	LE EECS 1021  3.00 Z	Object Oriented Programming	B+
+FW21	SB ENTR 3400  3.00 A	Bus Essentials for Tech Entrepreneurs I	A
+FW20	LE CIVL 3160  3.00 A	Transportation Engineering	B+
+FW20	LE CIVL 3260  3.00 M	Transportation Planning	C+
+FW20	LE CIVL 4002  3.00 A	Reinforced Concrete Design	C+
+FW20	LE CIVL 4003  3.00 M	Structural Steel Design	B
+FW20	LE CIVL 4110  3.00 A	Civil Engineering Project Management	B
+FW20	LE CIVL 4210  3.00 M	Sustainable Civil Engineering	B+
+FW20	LE EECS 1021  3.00 X	Object Oriented Programming	E  NCR
+FW20	SC MATH 1025  3.00 B	Applied Linear Algebra	C+
+FW19	LE CIVL 3110  3.00 A	Soil Mechanics	D
+FW19	LE CIVL 3120  4.00 A	Hydraulics	D+
+FW19	LE CIVL 3130  4.00 A	Structural Analysis	C
+FW19	LE CIVL 3210  3.00 M	Geotechnical Engineering	P
+FW19	LE CIVL 3220  3.00 M	Hydrology	P
+FW19	LE CIVL 3230  4.00 M	Introduction to Structural Design	B
+FW19	LE CIVL 3240  3.00 M	Sanitary and Environmental Engineering	C+
+FW19	LE ESSE 2210  3.00 A	Engineering and the Environment	B
+FW19	SC MATH 2930  3.00 A	Engineering Statistics	D
+SU19	LE ENG  3000  3.00 A	Professional Engineering Practice	B
+FW18	LE CIVL 2000  3.00 M	Civil Engineering Design Project	B
+FW18	LE CIVL 2120  3.00 A	Civil Engineering Materials	A
+FW18	LE CIVL 2150  3.00 A	Civil Engineering Graphics	B+
+FW18	LE CIVL 2160  3.00 A	Geological Processes	B
+FW18	LE CIVL 2210  4.00 M	Fluid Mechanics	D
+FW18	LE CIVL 2220  4.00 M	Mechanics of Materials	B+
+FW18	LE CIVL 2240  3.00 M	 Intro to Environmental Engineer	C
+FW18	LE ENG  2001  3.00 E	Eng Projs:Management, Economics & Safety	D+
+FW18	LE ENG  2003  3.00 M	Effective Engineering Communication	B+
+FW18	LE ESSE 2635  3.00 A	Surveying for Civil Engineers	B+
+FW18	SC MATH 2015  3.00 A	Applied Multivariate & Vector Calculus	D
+FW18	SC MATH 2271  3.00 M	Differential Equations for Sci. and Eng.	D
+FW18	SC MATH 2930  3.00 B	Engineering Statistics	E  NCR
+SU18	SC MATH 1014  3.00 A	Applied Calculus II	D+
+FW17	LE EECS 1011  3.00 E	Computational Thinking	B
+FW17	LE ENG  1101  4.00 B	Renaissance Engineer 1:	A
+FW17	LE ENG  1102  4.00 N	Ren. Eng. 2: Eng. Design Principles	A
+FW17	LE ESSE 1012  3.00 M	Earth Environment	B+
+FW17	SC CHEM 1100  4.00 M	Chemistry and Materials Science	B+
+FW17	SC MATH 1013  3.00 A	Applied Calculus I	C
+FW17	SC MATH 1014  3.00 M	Applied Calculus II	F  NCR
+FW17	SC PHYS 1800  3.00 A	Engineering Mechanics	B
+FW17	SC PHYS 1801  3.00 M	Electricity, Magnetism & Optics for Eng.	C
